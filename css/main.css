@@ -25,9 +25,10 @@ main {
 height: 100px;
 width: 100px;
 background-color: white;
-font-size: 70px;
-text-align: center;
-vertical-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 50px;
 }
 
 button {
