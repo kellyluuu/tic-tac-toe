@@ -110,3 +110,22 @@ function render() {
     }
   
   }
+  /*----- constants -----*/
+// winning combinations 012 345 678
+
+/*----- app's state (variables) -----*/
+// where the users click (where to put an x or o) - make sure a square is not taken first
+//let board; // a data variable that stores the board position 
+
+/*----- cached element references -----*/
+// message container - h1
+//const domMessage = document.querySelector('h2')
+
+
+/*----- event listeners -----*/
+// mouse click on 9 squares
+
+
+/*----- functions -----*/
+// initialize game - Start
+
